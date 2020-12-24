@@ -2,6 +2,7 @@
 Final project from the class DSC 170: Spatial Data Science. Contributors: Renaldy Herlim, Siddhi Patel
 
 __Introduction__
+
 In this project, we wanted to explicitly answer these hypothesis questions:
 Using GIS, can we optimize the placement of polling locations to emphasize the weight of permanent in-person voters? 
 Do our planned locations differ from that of the official 2020 polling locations?
