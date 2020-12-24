@@ -1,7 +1,7 @@
 # Optimizing-2020-Polling-Locations
 Final project from the class DSC 170: Spatial Data Science. 
 
-__Link to view the project__ : https://arcg.is/18z5yT
+__Link to view the project__ : https://arcg.is/18z5yT (includes interactive visualizations that takes a couple minutes to load)
 
 __Contributors: Renaldy Herlim, Siddhi Patel__
 
