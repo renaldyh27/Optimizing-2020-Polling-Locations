@@ -1,5 +1,6 @@
 # Optimizing-2020-Polling-Locations
-Final project from the class DSC 170: Spatial Data Science. Contributors: Renaldy Herlim, Siddhi Patel
+Final project from the class DSC 170: Spatial Data Science. 
+__Contributors: Renaldy Herlim, Siddhi Patel__
 
 __Introduction__
 
