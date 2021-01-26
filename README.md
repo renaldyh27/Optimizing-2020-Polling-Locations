@@ -1,9 +1,9 @@
 # Optimizing-2020-Polling-Locations
 
 
-__Link to the project demo__ : https://arcg.is/18z5yT (includes interactive visualizations that takes a couple minutes to load)
+__Link to the project demo__ : https://arcg.is/18z5yT (includes interactive visualizations that takes a couple minutes to load, open with Google Chrome)
 
-Final project from the class DSC 170: Spatial Data Science. The Jupyter Notebook of the source code can be viewed on the 'project_notebook_final.ipynb' file.
+Final project from the class DSC 170: Spatial Data Science. The Jupyter Notebook of the source code can be viewed on the 'election_polling_locations.ipynb' file.
 
 __Contributors: Renaldy Herlim, Siddhi Patel__
 
